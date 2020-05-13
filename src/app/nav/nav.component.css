@@ -1,0 +1,31 @@
+
+.nav
+{
+    border: 1px solid blue;
+    height:50px;
+    width:1520px;
+    background-color: rgba(55, 61, 230, 0.822) ;
+}
+ul
+{ 
+     font-size: x-large;
+     overflow: hidden; 
+     list-style-type: none;
+     margin-left: 20px;
+     margin-top: 12px;
+     padding: 0; 
+}
+a{
+    color:whitesmoke; 
+}
+
+li
+{ 
+    float: left;   
+}
+
+a:hover
+{
+  opacity: 0.5;
+
+}
